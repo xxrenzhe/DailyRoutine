@@ -7,7 +7,7 @@
 
 Guide： [how-to-make-your-badge](https://shields.io/category/coverage)
 
-### Stage Statistics: Trial Period, Current:1/7, Total:1/7
+### Stage Statistics: Trial Period, Current:3/5, Total:3/5
 
 **20220822**
 
@@ -29,9 +29,10 @@ Guide： [how-to-make-your-badge](https://shields.io/category/coverage)
 - ![Go to bed before 11pm](https://img.shields.io/badge/Go%20to%20bed%20before%2011pm-50%25-yellow)
 - ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
 
-
 **20220826**
 
+- ![Go to bed before 11pm](https://img.shields.io/badge/Go%20to%20bed%20before%2011pm-50%25-yellow)
+- ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
 
 **20220827**
 
