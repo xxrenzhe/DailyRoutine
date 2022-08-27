@@ -7,7 +7,7 @@
 
 Guide： [how-to-make-your-badge](https://shields.io/category/coverage)
 
-### Stage Statistics: Trial Period, Current:3/5, Total:3/5
+### Stage Statistics: Trial Period, Current:4/6, Total:4/6
 
 **20220822**
 
