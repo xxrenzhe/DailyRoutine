@@ -45,7 +45,7 @@ Guide： [how-to-make-your-badge](https://shields.io/category/coverage)
 - ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
 
 
-### Stage Statistics: First-30d Period, Current:3/4, Total:8/11
+### Stage Statistics: First-30d Period, Current:3/5, Total:8/12
 
 **20220829**
 
