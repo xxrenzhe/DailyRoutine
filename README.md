@@ -188,7 +188,7 @@ Guide： [how-to-make-your-badge](https://shields.io/category/coverage)
 - ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
 
 
-### Stage Statistics: Second-28d Period, Current:19/21, Total:45/56
+### Stage Statistics: Second-28d Period, Current:19/23, Total:45/58
 
 **20220926**
 
@@ -295,4 +295,31 @@ Guide： [how-to-make-your-badge](https://shields.io/category/coverage)
 - ![Go to bed before 11pm](https://img.shields.io/badge/Go%20to%20bed%20before%2011pm-100%25-brightgreen)
 - ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
 
+**20221017**
+
+- ![Go to bed before 11pm](https://img.shields.io/badge/Go%20to%20bed%20before%2011pm-50%25-yellow)
+- ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
+
+**20221018**
+
+- ![Go to bed before 11pm](https://img.shields.io/badge/Go%20to%20bed%20before%2011pm-50%25-yellow)
+- ![Learning English 10 minutes](https://img.shields.io/badge/Learning%20English%2010%20minutes%20-100%25-brightgreen)
+
+**20221019**
+
+
+
+**20221020**
+
+
+
+**20221021**
+
+
+
+**20221022**
+
+
+
+**20221023**
 
